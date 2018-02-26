@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Cerrar icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="*Objetivos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Resoluciones-=&gt;768" transform="translate(-958.000000, -768.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Navegacion-principal" transform="translate(0.000000, 738.000000)">
+                <g id="Boton-cerrar" transform="translate(943.000000, 2.000000)">
+                    <path d="M28.7484127,37.0211399 L28.7484127,28.7494822 C28.7484127,27.4362092 27.6901766,26.3847763 26.3847763,26.3847763 C25.070275,26.3847763 24.0211399,27.4434912 24.0211399,28.7494822 L24.0211399,37.0211399 L15.7494822,37.0211399 C14.4362092,37.0211399 13.3847763,38.079376 13.3847763,39.3847763 C13.3847763,40.6992776 14.4434912,41.7484127 15.7494822,41.7484127 L24.0211399,41.7484127 L24.0211399,50.0200704 C24.0211399,51.3333435 25.079376,52.3847763 26.3847763,52.3847763 C27.6992776,52.3847763 28.7484127,51.3260614 28.7484127,50.0200704 L28.7484127,41.7484127 L37.0200704,41.7484127 C38.3333435,41.7484127 39.3847763,40.6901766 39.3847763,39.3847763 C39.3847763,38.070275 38.3260614,37.0211399 37.0200704,37.0211399 L28.7484127,37.0211399 Z" id="Cerrar-icon" transform="translate(26.384776, 39.384776) rotate(45.000000) translate(-26.384776, -39.384776) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

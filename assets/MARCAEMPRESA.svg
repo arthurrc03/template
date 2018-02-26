@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="131px" height="18px" viewBox="0 0 131 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>MARCAEMPRESA</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="*Objetivos" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" letter-spacing="0.222222224" font-size="20" font-family="Oswald-Light, Oswald" line-spacing="25" font-weight="300">
+        <g id="Resoluciones-=&gt;768" transform="translate(-458.000000, -9.000000)">
+            <g id="cabecera-app" transform="translate(-1.000000, 1.000000)">
+                <text id="MARCAEMPRESA">
+                    <tspan x="458" y="28.4598999" fill="#545454">MARCA</tspan>
+                    <tspan x="510.231111" y="28" font-family="'Oswald', sans-serif" font-weight="bold" letter-spacing="0.246913582" fill="#069DD5">EMPRESA</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
